@@ -19,7 +19,7 @@ Reproducing IVA '21 [paper](https://dl.acm.org/doi/abs/10.1145/3472306.3478360) 
 1. Run ```python3 linguistic_modality.py ``` to generate vectorized embedding data into .pickle format.
 2. Run ```python3 visual_modality.py ``` to generate image feature vectors into .pickle format.
 3. Inside .audio_features/, run ```python3 audio_modality.py ``` to generate audio feature vectors into .pickle format.
-4. Run ```python3 main.py``` to train the model. 
+4. Run ```python3 train.py``` to train the model. 
 <br>
 
 
